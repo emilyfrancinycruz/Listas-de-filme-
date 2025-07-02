@@ -1,3 +1,28 @@
 body{
-    color:pink
+    background-color:rgb(195, 182, 209);
+    color:rgb(0, 89, 255);
+    font-family: "Archivo Black", sans-serif;
+    mmargin: 10px
+}
+
+header{
+    border-bottom: solid 10px rgb(255, 251, 0);
+    padding: 20px;
+    font-size: 40px;
+    color: aliceblue;
+}
+
+h1{
+    font-size: 32px;
+}
+
+p{
+    font-size: 20px;
+}
+
+section{
+    background-color: cornflowerblue;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    justify-content: center;
 }
